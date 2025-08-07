@@ -73,7 +73,7 @@ Este projeto utiliza a placa **BitDogLab** com o microcontrolador **Raspberry Pi
 
 ### 🔌 Projeto em funcionamento
 
-<img src="img/img1.jpg" alt="LED Verde Aceso" width="500"/>
+<img src="img/img1.png" alt="LED Verde Aceso" width="500"/>
 
 Acima, podemos ver o LED verde aceso, indicando um nível moderado de luminosidade detectado pelo sensor BH1750.
 
@@ -81,7 +81,7 @@ Acima, podemos ver o LED verde aceso, indicando um nível moderado de luminosida
 
 ### 🖥️ Leitura da luminosidade no Serial Monitor
 
-<img src="img/img2.jpg" alt="Leitura de luminosidade no monitor serial" width="500"/>
+<img src="img/img2.png" alt="Leitura de luminosidade no monitor serial" width="500"/>
 
 Neste exemplo, o monitor serial mostra uma leitura de luminosidade próxima de **0 lux**, indicando um ambiente escuro. O sistema reage desligando os LEDs e posicionando o servo motor em seu ângulo mínimo.
 
