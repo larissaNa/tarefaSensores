@@ -21,7 +21,7 @@ Este projeto utiliza o microcontrolador **RP2040** (Raspberry Pi Pico), o sensor
 ### 🔌 Sistema em Funcionamento
 
 <img src="imgs/img0.jpg" alt="Display OLED iniciando" width="400"/>
-<img src="imgs/img1.jpg" alt="Display OLED com temperatura e umidade" width="400"/>
+<img src="imgs/Img1.jpg" alt="Display OLED com temperatura e umidade" width="400"/>
 
 ---
 
@@ -56,7 +56,7 @@ Iniciando sistema com AHT10 e OLED...
 AHT10 inicializado e calibrado com sucesso.
 Umidade: 55.70 %RH, Temperatura: 24.53 C
 ```
-<img src="imgs/img2.jpg" alt="Saída no Serial Monitor" width="400"/>
+<img src="imgs/img2.png" alt="Saída no Serial Monitor" width="400"/>
 
 ---
 
