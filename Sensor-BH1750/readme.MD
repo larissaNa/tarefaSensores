@@ -73,7 +73,7 @@ Este projeto utiliza a placa **BitDogLab** com o microcontrolador **Raspberry Pi
 
 ### 🔌 Projeto em funcionamento
 
-<img src="imgs/img1.png" alt="LED Verde Aceso" width="500"/>
+<img src="imgs/img1.jpg" alt="LED Verde Aceso" width="500"/>
 
 Acima, podemos ver o LED verde aceso, indicando um nível moderado de luminosidade detectado pelo sensor BH1750.
 
