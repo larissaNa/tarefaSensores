@@ -29,9 +29,9 @@
 #define OLED_SDA_PIN         14
 #define OLED_SCL_PIN         15
 #define OLED_I2C_BAUDRATE    400000 // Frequência do I2C para o OLED (mais rápida é comum)
-
+ 
 // --- Definições para o Servo Motor SG90 ---
-#define PINO_SERVO 8 // Pino GPIO conectado ao sinal do servo motor
+#define PINO_SERVO 2 // Pino  conectado ao sinal do servo motor
 #define PWM_FREQ   50 // Frequência do PWM em Hz (50Hz para a maioria dos servos = 20ms período)
 
 // Cálculo do PWM_WRAP para uma frequência de 50Hz (20ms de período)
